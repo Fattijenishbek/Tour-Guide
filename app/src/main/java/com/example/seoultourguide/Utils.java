@@ -118,7 +118,7 @@ public class Utils {
      */
     public static String addPrefix(String phone) {
         if (!phone.isEmpty()) {
-            return "+40 " + phone;
+            return "+82 " + phone;
         } else {
             return phone;
         }

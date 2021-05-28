@@ -75,31 +75,31 @@
         <item>Everyday: 09:30–23:00</item>
     </string-array>
     <string-array name="parks_phones">
-        <item>+82 2 1661 2000</item>
-        <item>+82 31 320 5000</item>
-        <item>+82 2 509 6000</item>
+        <item>2 1661 2000</item>
+        <item>31 320 5000</item>
+        <item>2 509 6000</item>
     </string-array>
 
     <!--PALACES-->
     <string-array name="palaces_names">
-        <item>Palace of the Parliament</item>
-        <item>Cotroceni Palace</item>
-        <item>Crețulescu Palace</item>
+        <item>Changdeokgung Palace</item>
+        <item>Changgyeonggung Palace</item>
+        <item>Deoksugung Palace</item>
     </string-array>
     <string-array name="palaces_addresses">
-        <item>Strada Izvor 2&#8211;4, Bucharest</item>
-        <item>Bulevardul Geniului 1, Bucharest</item>
-        <item>Strada Știrbei Vodă 39, Bucharest</item>
+        <item>99 Yulgok-ro, Waryong-dong, Jongno-gu, Seoul, South Korea</item>
+        <item>185 Changgyeonggung-ro, Waryong-dong, Jongno-gu, Seoul, South Korea</item>
+        <item>99 Sejong-daero, Jeong-dong, Jung-gu, Seoul, South Korea</item>
     </string-array>
     <string-array name="palaces_descriptions">
-        <item>The Palace of the Parliament (Romanian: Palatul Parlamentului) is the seat of the Parliament of Romania. Located on Dealul Arsenalului in central Bucharest (Sector 5), it is the largest administrative building in the world with a height of 84 metres (276 ft), an area of 365,000 square metres (3,930,000 sq ft) and a volume of 2,550,000 cubic metres (90,000,000 cu ft). The Palace of the Parliament is also the heaviest building in the world, weighing in at around 4,098,500,000 kilograms (9.0356×109 lb).</item>
-        <item>Cotroceni Palace is the official residence of the President of Romania. Located at Bulevardul Geniului 1, in Bucharest, Romania, the palace also houses the National Cotroceni Museum.</item>
-        <item>Cantacuzino Palace was built by architect Ion D. Berindey in French Baroque/Art Nouveau style. Today it houses the George Enescu museum.</item>
+        <item>Changdeokgung, also known as Changdeokgung Palace or Changdeok Palace, is set within a large park in Jongno-gu, Seoul, South Korea. It is one of the "Five Grand Palaces" built by the kings of the Joseon Dynasty.</item>
+        <item>Changgyeong Palace is a palace located in Seoul, South Korea. The palace was built in the mid-15th century by King Sejong for his father, Taejong. It was originally named "Suganggung" but it was renovated and enlarged in 1483 by King Seongjong, at which time it received its current name.</item>
+        <item>Deoksugung, also known as Gyeongun-gung, Deoksugung Palace, or Deoksu Palace, is a walled compound of palaces in Seoul that was inhabited by members of Korea\'s royal family during the Joseon monarchy until the annexation of Korea by Japan in 1910. </item>
     </string-array>
     <string-array name="palaces_hours">
-        <item>March &#8211; October (Monday &#8211; Sunday): 09:00&#8211;17:00\nNovember &#8211; February (Monday &#8211; Sunday): 10:00&#8211;16:00</item>
-        <item>Monday: Closed\nTuesday &#8211; Sunday: 09:30&#8211;17:30</item>
-        <item>Monday: Closed\nTuesday &#8211; Sunday: 10:00&#8211;17:00</item>
+        <item>Everyday: 09:00–17:00</item>
+        <item>Everyday: 09:00–17:30</item>
+        <item>Everyday: 09:00–21:00</item>
     </string-array>
     <string-array name="palaces_phones">
         <item>733 558 102</item>
@@ -109,27 +109,27 @@
 
     <!--MONUMENTS-->
     <string-array name="monuments_names">
-        <item>Arcul de Triumf</item>
-        <item>Memorial of Rebirth</item>
-        <item>Equestrian Statue of Carol I</item>
+        <item>세종대왕 동상 Statue of Sejong the Great</item>
+        <item>Gwanghwamun Gate</item>
+        <item>Statue of Gangnam Style</item>
     </string-array>
     <string-array name="monuments_addresses">
-        <item>Piața Arcul de Triumf, Bucharest</item>
-        <item>Piața Revoluției, Bucharest</item>
-        <item>Calea Victoriei 49&#8211;53, Bucharest</item>
+        <item>172 Sejong-daero, Sejongno, Jongno-gu, Seoul, South Korea</item>
+        <item>161 Sajik-ro, Sejongno, Jongno-gu, Seoul, South Korea</item>
+        <item>East Gate of COEX Gangnam-gu, Youngdongdaero 513</item>
     </string-array>
     <string-array name="monuments_descriptions">
-        <item>Arcul de Triumf is a triumphal arch located in the northern part of Bucharest, on the Kiseleff Road. The first, wooden, triumphal arch was built hurriedly, after Romania gained its independence, so that the victorious troops could march under it.</item>
-        <item>The Memorial of Rebirth is a memorial in Bucharest, Romania that commemorates the struggles and victims of the Romanian Revolution of 1989, which overthrew Communism.</item>
-        <item>This impresive memorial is dedicated to the Romanian soldiers who fell in both world wars. There are also Romanians fallen from the First World War buried here.</item>
+        <item>Statue of King Sejong is located at the Sejongno, Gwanghwamun Plaza in central Seoul, South Korea. It is dedicated to the 15th century Korean monarch, Sejong the Great, the fourth king of Joseon dynasty and one of Korea\'s most famous historical figures.</item>
+        <item>Gwanghwamun is the main and largest gate of Gyeongbokgung Palace, in Jongno-gu, Seoul, South Korea. It is located at a three-way intersection at the northern end of Sejongno.</item>
+        <item>Like the Cloud Gate of Chicago and the Charging Bull of Wall Street, a new landmark is made at the COEX East Gate, to portray Gangnam\'s own style. This is a new landmark of Gangnam.</item>
     </string-array>
     <string-array name="monuments_hours">
         <item>Open 24/7</item>
-        <item>Open 24/7</item>
+        <item>Everyday: 09:00–18:00</item>
         <item>Open 24/7</item>
     </string-array>
     <string-array name="monuments_phones">
-        <item>787 584 104</item>
+        <item> </item>
         <item> </item>
         <item> </item>
     </string-array>
