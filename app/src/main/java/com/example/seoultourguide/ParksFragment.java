@@ -34,7 +34,7 @@ public class ParksFragment extends Fragment {
 
         // Add Google Maps URIs
         String[] parksMapUris = {
-                "https://www.google.com/maps/dir//Zoo+Bucharest,+Strada+Vadul+Moldovei+4,+Bucure%C8%99ti+077190/@44.5172694,26.1044899,15z/data=!4m16!1m6!3m5!1s0x0:0x23f987bbc405cd2a!2sZoo+Bucharest!8m2!3d44.5172694!4d26.1044899!4m8!1m0!1m5!1m1!1s0x40b202dab1f665f5:0x23f987bbc405cd2a!2m2!1d26.1044899!2d44.5172694!3e3",
+                "https://www.google.com/maps/dir/42.892185,74.6283312/lotte+world+amusement+park/@34.337989,64.795649,3z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x357ca5a7250efe81:0x433df2c1fec03b98!2m2!1d127.098167!2d37.5111158",
                 "https://www.google.com/maps/dir//King+Michael+I+Park,+Bucure%C8%99ti/@44.4702015,26.0827527,15z/data=!4m16!1m6!3m5!1s0x0:0x57f60ea89ec15526!2sKing+Michael+I+Park!8m2!3d44.4702015!4d26.0827527!4m8!1m0!1m5!1m1!1s0x40b20213bb079091:0x57f60ea89ec15526!2m2!1d26.0827527!2d44.4702015!3e3",
                 "https://www.google.com/maps/dir//Ci%C8%99migiu+Park,+Bulevardul+Regina+Elisabeta,+Bucure%C8%99ti+030167/@44.4369687,26.0909837,15z/data=!4m16!1m6!3m5!1s0x0:0x3e98ab275166423b!2sCi%C8%99migiu+Park!8m2!3d44.4369687!4d26.0909837!4m8!1m0!1m5!1m1!1s0x40b1ff438f7e6fcf:0x3e98ab275166423b!2m2!1d26.0909837!2d44.4369687!3e3",
                 "https://www.google.com/maps/dir//Youth+Park,+Bucure%C8%99ti/@44.4004916,26.1084371,15z/data=!4m16!1m6!3m5!1s0x0:0x9c229d7528e44f8e!2sYouth+Park!8m2!3d44.4004916!4d26.1084371!4m8!1m0!1m5!1m1!1s0x40b1ffaad2d5dcff:0x9c229d7528e44f8e!2m2!1d26.1084371!2d44.4004916!3e3",
@@ -47,7 +47,7 @@ public class ParksFragment extends Fragment {
 
         // Add Images Resource IDs
         int[] parksImages = {
-                R.drawable.baneasa_zoo,
+                R.drawable.main_bg_seoul,
                 R.drawable.herastrau_park,
                 R.drawable.cismigiu_gardens,
                 R.drawable.tineretului_park,

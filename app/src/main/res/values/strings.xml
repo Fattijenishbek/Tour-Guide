@@ -90,7 +90,7 @@
 
     <!--PARKS-->
     <string-array name="parks_names">
-        <item>Băneasa Zoo</item>
+        <item>Lotte World</item>
         <item>Herăstrău Park</item>
         <item>Cișmigiu Gardens</item>
         <item>Tineretului Park</item>
@@ -101,7 +101,7 @@
         <item>Kiseleff Park</item>
     </string-array>
     <string-array name="parks_addresses">
-        <item>Strada Vadul Moldovei 4, Bucharest</item>
+        <item>240 Olympic-ro, Jamsil-dong, Songpa-gu, Seoul, South Korea</item>
         <item>Bulevardul Aviatorilor, Bucharest</item>
         <item>Bulevardul Regina Elisabeta, Bucharest</item>
         <item>Bulevardul Tineretului, Bucharest</item>
@@ -112,7 +112,7 @@
         <item>Șoseaua Pavel Dimitrievici Kiseleff, Bucharest</item>
     </string-array>
     <string-array name="parks_descriptions">
-        <item>Zoo Băneasa is a zoo in Bucharest, Romania, located in a northern district of the city, called Băneasa.</item>
+        <item>Lotte World is a major recreation complex in Seoul, South Korea. It consists of the world\'s largest indoor theme park, an outdoor amusement park called "Magig Island", an artificial island inside a lake linked by monorail, a luxury hotel, a Korean folk museum, sports facilities, and movie theaters.</item>
         <item>Herăstrău Park is a large park on the northern side of Bucharest, Romania, around Lake Herăstrău, one of the lakes formed by the Colentina River.</item>
         <item>Cișmigiu Park is a vast English&#8211;style garden with fountains, monuments and a popular boating lake where the landmark Monte Carlo restaurant stands on a central island. Elegant pre&#8211;communist buildings line nearby Regina Maria boulevard. The 19th&#8211;century Gambrinus Brewery serves local beer and traditional food, and surrounding streets have snack bars, pubs and stylish, low&#8211;key nightclubs.</item>
         <item>The largest park in the south part of Bucharest, featuring some of the best playgrounds in the city. Divided into two parts, the main section (closest to Tineretului metro) offers a few rides for kids, trampolines and dodgems, as well as playgrounds and plenty of tree-lined avenues great for strolling.</item>
@@ -123,7 +123,7 @@
         <item>Green space demarcated around 1832, with sculptures and busts of notable Romanians and Roman poet Publius Ovidius Naso (Romanian: Ovidiu).</item>
     </string-array>
     <string-array name="parks_hours">
-        <item>Monday &#8211; Friday: 09:00&#8211;19:00\nSaturday &#8211; Sunday: 08:00&#8211;20:00</item>
+        <item>Everyday: 09:30-23:00</item>
         <item>Open 24/7</item>
         <item>Open 24/7</item>
         <item>Open 24/7</item>
@@ -134,7 +134,7 @@
         <item>Open 24/7</item>
     </string-array>
     <string-array name="parks_phones">
-        <item>21 269 0600</item>
+        <item>+82 2 1661 2000</item>
         <item>744 630 000</item>
         <item>21 224 5860</item>
         <item>21 224 5860</item>
@@ -228,7 +228,7 @@
     <string name="placeholder_address">Calea Victoriei 12, Bucharest</string>
     <string name="placeholder_description">The National Museum of Romanian History is a museum located on Calea Victoriei in Bucharest, Romania, which contains Romanian historical artifacts from prehistoric times up to modern times.</string>
     <string name="placeholder_hours">09:00 &#8211; 17:00</string>
-    <string name="placeholder_phone">+40 21 315 8207</string>
+    <string name="placeholder_phone">+40 21 315 8208</string>
     <string name="placeholder_category_title">Category</string>
 
 </resources>
