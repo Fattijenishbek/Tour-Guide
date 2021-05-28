@@ -6,7 +6,7 @@
 
     <ImageView
         android:id="@+id/main_bg_image"
-        android:src="@drawable/main_activity_bg"
+        android:src="@mipmap/main_bg_seoul"
         android:contentDescription="@string/cd_main_bg_img"
         style="@style/MainActivityBackgroundImage" />
 
