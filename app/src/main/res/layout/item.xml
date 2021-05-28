@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/category_item"
+    style="@style/CategoryItem">
+
+
+    <ImageView
+        android:id="@+id/cat_bg_image"
+        style="@style/CategoryItemBackgroundImage"
+        tools:src="@drawable/national_museum_of_romanian_history"
+        android:contentDescription="@string/cd_category_item_bg"
+        app:tint="@color/TransparentBlack" />
+
+    <TextView
+        android:id="@+id/cat_item_address"
+        tools:text="@string/placeholder_address"
+        style="@style/CategoryItemAddress" />
+
+    <TextView
+        android:id="@+id/cat_item_title"
+        tools:text="@string/placeholder_name"
+        style="@style/CategoryItemTitle" />
+
+    <ImageView
+        android:id="@+id/cat_item_arrow"
+        android:contentDescription="@string/cd_category_item_arr"
+        style="@style/CategoryItemArrow" />
+
+</RelativeLayout>
