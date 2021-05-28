@@ -2,8 +2,8 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimary">@color/TransparentPurple</item>
+        <item name="colorPrimaryDark">@color/DeepPurple</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:windowTranslucentStatus" tools:targetApi="19">true</item>
     </style>
@@ -13,10 +13,10 @@
         <item name="android:layout_height">match_parent</item>
     </style>
 
-    <style name="RootYellow">
+    <style name="RootPurple">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">match_parent</item>
-        <item name="android:background">@color/Yellow</item>
+        <item name="android:background">@color/TransparentPurple</item>
     </style>
 
     <style name="RootCategory">
@@ -138,7 +138,7 @@
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">125dp</item>
         <item name="android:paddingTop">25dp</item>
-        <item name="android:background">@color/Yellow</item>
+        <item name="android:background">@color/TransparentPurple</item>
     </style>
 
     <style name="CategoryActionBarBackButton">
@@ -197,6 +197,7 @@
     <style name="CategoryItem">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">150dp</item>
+        <item name="android:src">@drawable/detail_content_bg</item>
     </style>
 
     <style name="CategoryItemBackgroundImage">

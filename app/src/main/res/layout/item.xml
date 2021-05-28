@@ -8,24 +8,28 @@
 
     <ImageView
         android:id="@+id/cat_bg_image"
-        style="@style/CategoryItemBackgroundImage"
+        style="@style/MainActivityBackgroundImage"
         tools:src="@drawable/national_museum_of_romanian_history"
-        android:contentDescription="@string/cd_category_item_bg"
-        app:tint="@color/TransparentBlack" />
+        android:contentDescription="@string/cd_category_item_bg" />
 
-    <TextView
-        android:id="@+id/cat_item_address"
-        tools:text="@string/placeholder_address"
-        style="@style/CategoryItemAddress" />
+    <LinearLayout
+        style="@style/MainScreenContainer"
+        android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/cat_item_title"
-        tools:text="@string/placeholder_name"
-        style="@style/CategoryItemTitle" />
+        <TextView
+            android:id="@+id/cat_item_address"
+            style="@style/CategoryItemAddress"
+            tools:text="@string/placeholder_address" />
 
-    <ImageView
-        android:id="@+id/cat_item_arrow"
-        android:contentDescription="@string/cd_category_item_arr"
-        style="@style/CategoryItemArrow" />
+        <TextView
+            android:id="@+id/cat_item_title"
+            style="@style/CategoryItemTitle"
+            tools:text="@string/placeholder_name" />
+    </LinearLayout>
+        <ImageView
+            android:id="@+id/cat_item_arrow"
+            style="@style/CategoryItemArrow"
+            android:contentDescription="@string/cd_category_item_arr" />
+
 
 </RelativeLayout>

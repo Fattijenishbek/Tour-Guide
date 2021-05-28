@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">@color/Yellow</color>
+    <color name="colorPrimary">@color/TransparentPurple</color>
     <color name="colorPrimaryDark">@color/YellowDark</color>
     <color name="colorAccent">@color/White</color>
 
@@ -25,6 +25,7 @@
     <color name="TransparentPink">#c8e91e63</color>
     <color name="Purple">#9C27B0</color>
     <color name="TransparentPurple">#c89c27b0</color>
+    <color name="TransparentLightPurple">#469C27B0</color>
     <color name="DeepPurple">#673AB7</color>
     <color name="TransparentDeepPurple">#c8673AB7</color>
     <color name="Indigo">#3F51B5</color>
